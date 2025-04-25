@@ -1,12 +1,8 @@
 import { ThemeProvider, CssBaseline } from '@mui/material';
-import { BrowserRouter as Router } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import HeroSection from './components/HeroSection';
-import FeaturedProducts from './components/FeaturedProducts';
-import Services from './components/Services';
-import Testimonials from './components/Testimonials';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/layout/Navbar';
+import Footer from './components/layout/Footer';
+import HomePage from './pages/home/HomePage';
 import theme from './styles/theme';
 
 function App() {
@@ -17,11 +13,9 @@ function App() {
         <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
           <Navbar />
           <main>
-            <HeroSection />
-            <FeaturedProducts />
-            <Services />
-            <Testimonials />
-            <Contact />
+            <Routes>
+              <Route path="/" element={<HomePage />} />
+            </Routes>
           </main>
           <Footer />
         </div>
