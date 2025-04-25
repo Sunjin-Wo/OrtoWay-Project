@@ -1,0 +1,163 @@
+{
+  "hash": "020208dd",
+  "configHash": "cef3de71",
+  "lockfileHash": "5d31474a",
+  "browserHash": "cdc80315",
+  "optimized": {
+    "@mui/icons-material/Build": {
+      "src": "../../node_modules/@mui/icons-material/esm/Build.js",
+      "file": "@mui_icons-material_Build.js",
+      "fileHash": "bf039c22",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Email": {
+      "src": "../../node_modules/@mui/icons-material/esm/Email.js",
+      "file": "@mui_icons-material_Email.js",
+      "fileHash": "9d543b3f",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Facebook": {
+      "src": "../../node_modules/@mui/icons-material/esm/Facebook.js",
+      "file": "@mui_icons-material_Facebook.js",
+      "fileHash": "2d56ff15",
+      "needsInterop": false
+    },
+    "@mui/icons-material/FormatQuote": {
+      "src": "../../node_modules/@mui/icons-material/esm/FormatQuote.js",
+      "file": "@mui_icons-material_FormatQuote.js",
+      "fileHash": "81cb1e5b",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Instagram": {
+      "src": "../../node_modules/@mui/icons-material/esm/Instagram.js",
+      "file": "@mui_icons-material_Instagram.js",
+      "fileHash": "d9e960af",
+      "needsInterop": false
+    },
+    "@mui/icons-material/KeyboardArrowDown": {
+      "src": "../../node_modules/@mui/icons-material/esm/KeyboardArrowDown.js",
+      "file": "@mui_icons-material_KeyboardArrowDown.js",
+      "fileHash": "4af6c366",
+      "needsInterop": false
+    },
+    "@mui/icons-material/LocalShipping": {
+      "src": "../../node_modules/@mui/icons-material/esm/LocalShipping.js",
+      "file": "@mui_icons-material_LocalShipping.js",
+      "fileHash": "17fd5197",
+      "needsInterop": false
+    },
+    "@mui/icons-material/LocationOn": {
+      "src": "../../node_modules/@mui/icons-material/esm/LocationOn.js",
+      "file": "@mui_icons-material_LocationOn.js",
+      "fileHash": "a504e447",
+      "needsInterop": false
+    },
+    "@mui/icons-material/MedicalServices": {
+      "src": "../../node_modules/@mui/icons-material/esm/MedicalServices.js",
+      "file": "@mui_icons-material_MedicalServices.js",
+      "fileHash": "233e550a",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Menu": {
+      "src": "../../node_modules/@mui/icons-material/esm/Menu.js",
+      "file": "@mui_icons-material_Menu.js",
+      "fileHash": "9bb0ccf4",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Person": {
+      "src": "../../node_modules/@mui/icons-material/esm/Person.js",
+      "file": "@mui_icons-material_Person.js",
+      "fileHash": "cde6eb73",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Phone": {
+      "src": "../../node_modules/@mui/icons-material/esm/Phone.js",
+      "file": "@mui_icons-material_Phone.js",
+      "fileHash": "014fb7bc",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Send": {
+      "src": "../../node_modules/@mui/icons-material/esm/Send.js",
+      "file": "@mui_icons-material_Send.js",
+      "fileHash": "f55b5148",
+      "needsInterop": false
+    },
+    "@mui/icons-material/SupportAgent": {
+      "src": "../../node_modules/@mui/icons-material/esm/SupportAgent.js",
+      "file": "@mui_icons-material_SupportAgent.js",
+      "fileHash": "beb8ef71",
+      "needsInterop": false
+    },
+    "@mui/icons-material/WhatsApp": {
+      "src": "../../node_modules/@mui/icons-material/esm/WhatsApp.js",
+      "file": "@mui_icons-material_WhatsApp.js",
+      "fileHash": "f0d60dca",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "26dc4765",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/esm/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "b34925e5",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "b0e50800",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "84695853",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3f6d2dcb",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "321709de",
+      "needsInterop": false
+    },
+    "react-slick": {
+      "src": "../../node_modules/react-slick/lib/index.js",
+      "file": "react-slick.js",
+      "fileHash": "4fec7859",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-F3TQQ72S": {
+      "file": "chunk-F3TQQ72S.js"
+    },
+    "chunk-VMOYVQZT": {
+      "file": "chunk-VMOYVQZT.js"
+    },
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-HUG6PGT5": {
+      "file": "chunk-HUG6PGT5.js"
+    },
+    "chunk-TFFPBH4P": {
+      "file": "chunk-TFFPBH4P.js"
+    },
+    "chunk-SZELLGJF": {
+      "file": "chunk-SZELLGJF.js"
+    },
+    "chunk-KQ7WO6A7": {
+      "file": "chunk-KQ7WO6A7.js"
+    }
+  }
+}
